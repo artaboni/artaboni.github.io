@@ -104,6 +104,8 @@ defaults:
       layout: single
       author_profile: true
 
-
+tag_archive:
+  type: liquid
+  path: /tutorials/tag-archive/
 
 theme: jekyll-theme-minimal
