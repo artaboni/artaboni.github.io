@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Anthony Taboni"
-  avatar : "/assets/images/headshot.jpg"
+  avatar : "/assets/images/Headshot.jpg"
   bio    : "PhD Candidate in Politics at Princeton University."
   links:
     - label: "Twitter"
