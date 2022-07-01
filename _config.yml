@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/Headshot.jpg"
   bio    : "PhD Candidate in Politics at Princeton University."
   links:
+    - label: "Email"
+        icon: "fas fa-fw fa-envelope"
+        url: "mailto:ataboni@princeton.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AnthonyTaboni"
