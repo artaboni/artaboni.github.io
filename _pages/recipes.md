@@ -1,6 +1,6 @@
 ---
 title: "Recipes"
-permalink: /recipe/
+permalink: /recipes/
 author_profile: true
 ---
 
