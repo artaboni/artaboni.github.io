@@ -3,4 +3,5 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
- Coming Soon---
+ My CV can be found 
+ <a href = "assets/documents/Taboni_CV_6_16_23.pdf"> here </a>
