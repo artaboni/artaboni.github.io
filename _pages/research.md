@@ -4,4 +4,4 @@ permalink: /research/
 author_profile: true
 ---
 
-Coming soon
+Coming Soon
